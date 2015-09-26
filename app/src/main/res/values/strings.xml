@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoocAndroid01</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView01">Name:</string>
+    <string name="editTextHint">Please enter your name</string>
+</resources>
